@@ -1,1 +1,1 @@
-"# TeamGraniteRoomsAndSuite" 
+# TeamGraniteRoomsAndSuite
